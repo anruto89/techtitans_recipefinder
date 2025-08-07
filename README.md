@@ -1,1 +1,5 @@
 # techtitans_recipefinder
+recipe finder
+ASHISH KUMAR GOPE, SUJAY SINGH
+PROBLEM 2: RECIPE FINDER UI
+HTML, CSS, JAVASCRIPT
